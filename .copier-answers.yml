@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 64cb0b2
+_src_path: ..\copier_template
+ci_os_platforms: '[''ubuntu-latest'', ''windows-latest'']'
+ci_python_versions: '[''3.12'', ''3.13'', ''3.14'']'
+doc_theme_colour: '#027521'
+github_org_name: Tom-Willemsen
+github_repo_name: libfoo
+module_name: libfoo
+project_name: LibFOO
+project_short_description: Implements the FOO process to twiddle the bits.
+publish_to_pypi: false
