@@ -1,0 +1,25 @@
+﻿
+
+``libfoo``
+==========
+
+.. automodule:: libfoo
+    :members:
+    :show-inheritance:
+
+    
+    
+    .. rubric:: Submodules
+
+    .. autosummary::
+        :toctree:
+        :template: custom-module-template.rst
+        :recursive:
+    
+        version
+    
+    
+
+    
+    
+    

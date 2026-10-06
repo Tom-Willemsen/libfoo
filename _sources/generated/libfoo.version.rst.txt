@@ -1,0 +1,16 @@
+
+
+``libfoo.version``
+==================
+
+.. automodule:: libfoo.version
+    :members:
+    :show-inheritance:
+
+    
+    
+    
+
+    
+    
+    
